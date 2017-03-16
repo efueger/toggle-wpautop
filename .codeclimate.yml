@@ -50,3 +50,4 @@ ratings:
   - "**.php"
   - "**.css"
   - "**.scss"
+  - "!tests/"
