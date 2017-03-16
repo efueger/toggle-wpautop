@@ -50,4 +50,4 @@ ratings:
   - "**.php"
   - "**.css"
   - "**.scss"
-  - "!tests/toggle-wpautop.php"
+  - "!tests/**/*"
